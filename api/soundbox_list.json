@@ -1,10 +1,12 @@
 [
    {
       "name":"François Damiens",
-      "imageUrl":"https://lh3.googleusercontent.com/G36h7uLk_tASm_O6HDvaeFi03euAFwqt3KYFJGfht3mMCLXzpiiYw-Ln_Qb-t598jWA=s360-rw"
+      "imageUrl":"https://lh3.googleusercontent.com/G36h7uLk_tASm_O6HDvaeFi03euAFwqt3KYFJGfht3mMCLXzpiiYw-Ln_Qb-t598jWA=s360-rw",
+      "playstoreUrl":"https://play.google.com/store/apps/details?id=com.pierrefourreau.francoisbox"
    },
    {
       "name":"Brice de Nice",
-      "imageUrl":"https://lh3.googleusercontent.com/D_83IaTvWmxnJZcPB1C9V8ZjMJIVGLtl7wHmfDb7VD8Y40QW3HjPUqQ5ErAKNRIQmA=s360-rw"
+      "imageUrl":"https://lh3.googleusercontent.com/D_83IaTvWmxnJZcPB1C9V8ZjMJIVGLtl7wHmfDb7VD8Y40QW3HjPUqQ5ErAKNRIQmA=s360-rw",
+       "playstoreUrl":"https://play.google.com/store/apps/details?id=com.pierrefourreau.bricedenice"
    }
 ]
