@@ -28,5 +28,11 @@
       "name":"RRRrrr !!!",
       "image_url":"https://lh3.googleusercontent.com/AbyzMGChP2_csudDyimcK3jMHLWKP4_gBVYGh1gsIz9cJfgwsJsKMEiOeF8lxbVtuQdH=s360-rw",
        "playstore_url":"https://play.google.com/store/apps/details?id=com.pierrefourreau.rrrrrrr"
+   },
+    {
+       "package_name":"com.pierrefourreau.lestuche",
+      "name":"Les Tuche !!!",
+      "image_url":"https://play-lh.googleusercontent.com/FD2XC_-eNQF7_J4b_ptkaKWA12gB00KBaL_DVcm1fcHnw0JPLhkxE5F1yAUUEThWjA=w480-h960-rw",
+       "playstore_url":"https://play.google.com/store/apps/details?id=com.pierrefourreau.lestuche"
    }
 ]
